@@ -95,7 +95,7 @@
 /* Hero section */
 
 .hero {
-    background: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.1)), url(/images/gym-1.jpg);
+    background: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.1)), url(images/gym-1.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -379,7 +379,7 @@
     rgba(0,0,0,0.6) 35%,
     rgba(0,0,0,0.1) 100%
     ), 
-    url('/images/karsten-winegeart-0Wra5YYVQJE-unsplash.jpg') no-repeat center;
+    url('images/karsten-winegeart-0Wra5YYVQJE-unsplash.jpg') no-repeat center;
     background-size: cover;
     height: 450px;
     width: 100%;
